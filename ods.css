@@ -1,0 +1,33 @@
+#main-slide .carousel-caption {
+    background-color: #00000059;
+  }
+
+  .footer-area .footer-social li .github:hover {
+        background-color: #00000059;
+  }
+
+  .carousel-caption p.wow {
+    font-weight:900;
+  }
+
+  div.spnsors-logo p {
+    color:#212121;
+    margin-top: 15px;
+    text-transform: uppercase;
+    font-weight:900;
+    line-height:1rem;
+  }
+
+  #partners {
+    background-color:#f3f4f3;
+  }
+
+  span.slicknav_icon.slicknav_no-text {
+  display:inherit !important;
+  }
+
+  @media screen and (max-width: 768px) {}
+  a.navbar-brand img {
+      max-width: 35% !important;
+   }
+  }
