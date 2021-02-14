@@ -30,6 +30,7 @@ a {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+  color: #FFC71C;
 }
 
 a:hover {
