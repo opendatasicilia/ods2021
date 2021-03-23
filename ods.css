@@ -21,6 +21,10 @@
   #partners {
     background-color:#f3f4f3;
   }
+  p {
+  font-size:21px;
+  line-height:1.6em;
+  }
 
   span.slicknav_icon.slicknav_no-text {
   display:inherit !important;
