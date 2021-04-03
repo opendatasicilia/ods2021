@@ -5,7 +5,6 @@
   - [Testi scorrevoli da predisporre](#testi-scorrevoli-da-predisporre)
 - [YouTube](#youtube)
 
-
 ## da fare
 
 - [x] scrivere note StreamYard;
