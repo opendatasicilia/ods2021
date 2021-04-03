@@ -77,6 +77,6 @@ Titolo: #ODS2021 - Il valore dei dati
 
 Decrizione:
 
-> https://ods2021.opendatasicilia.it/
-> Il raduno Open Data Sicilia del 2021 ha come obiettivo quello di fare emergere il valore dei dati.
+> https://ods2021.opendatasicilia.it/<br>
+> Il raduno Open Data Sicilia del 2021 ha come obiettivo quello di fare emergere il valore dei dati.<br>
 > Se hai un'idea sui dati aperti, se vuoi scoprire un progetto a cui dare un contributo, imparare a visualizzarli, trasformarli o analizzarli, partecipa.
