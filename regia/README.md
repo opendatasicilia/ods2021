@@ -61,10 +61,6 @@ Ci sono anche queste altre combinazioni:
 
 Non devono superare i 10 minuti e i 200 MB e devono essere 1280 x 720 pixel di dimensioni.
 
-##Slogan:
-
-
-
 ### Testi scorrevoli da predisporre
 
 Così come si può vedere nelle immagini di sopra, è possibile fare scorrere dei testi. A seguire alcuni di quelli predisposti:
