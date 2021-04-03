@@ -8,7 +8,7 @@
 ## da fare
 
 - [x] scrivere note StreamYard;
-- [ ] attivare evento su gruppo Facbook ODS (si può fare soltanto da giorno 10 aprile in poi);
+- [ ] attivare evento su gruppo Facebook ODS (si può fare soltanto da giorno 10 aprile in poi);
 
 ## Streamyard
 
@@ -75,7 +75,7 @@ URL: <https://www.youtube.com/watch?v=QOd1SKzxRqA>
 
 Titolo: #ODS2021 - Il valore dei dati
 
-Decrizione:
+Descrizione:
 
 > https://ods2021.opendatasicilia.it/<br>
 > Il raduno Open Data Sicilia del 2021 ha come obiettivo quello di fare emergere il valore dei dati.<br>
