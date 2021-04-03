@@ -63,10 +63,7 @@ Non devono superare i 10 minuti e i 200 MB e devono essere 1280 x 720 pixel di d
 
 ##Slogan:
 
-- datiBeneComune
-- adesso
-- newsletter
-- sito raduno
+
 
 ### Testi scorrevoli da predisporre
 
