@@ -3,12 +3,14 @@
   - [Grafica da predisporre](#grafica-da-predisporre)
   - [Video già registrati](#video-già-registrati)
   - [Testi scorrevoli da predisporre](#testi-scorrevoli-da-predisporre)
+- [Test da fare insieme a chi sarà in regia](#test-da-fare-insieme-a-chi-sarà-in-regia)
 - [YouTube](#youtube)
 
 ## da fare
 
 - [x] scrivere note StreamYard;
 - [ ] attivare evento su gruppo Facebook ODS (si può fare soltanto da giorno 10 aprile in poi);
+- [ ] scrivere documento condiviso per chi si occuperà della regia
 
 ## Streamyard
 
@@ -68,6 +70,16 @@ Così come si può vedere nelle immagini di sopra, è possibile fare scorrere de
 - per rimanere aggiornato iscriviti alla newsletter http://opendatasicilia.it/newsletter/
 - Dati Pubblici accessibili a tutti, adesso! https://adesso.opendatasicilia.it/
 - #datiBeneComune, liberiamoli tutti https://www.datibenecomune.it/
+
+## Test da fare insieme a chi sarà in regia
+
+- [ ] invitare persone
+- [ ] ingresso persone
+- [ ] gestione inquadrature
+- [ ] gestione "grafica"
+- [ ] passagio di testimone di regia
+
+
 
 ## YouTube
 
