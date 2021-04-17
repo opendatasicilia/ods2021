@@ -35,3 +35,7 @@
       max-width: 35% !important;
    }
   }
+
+.navbar {
+    background: black;
+}
