@@ -1,13 +1,19 @@
 #!/bin/bash
 
+### descrizione ###
+#
+# Uno script che pubblicherà ogni 4 giorni un tweet con uno degli interventi del raduno
+#
+### descrizione ###
+
 set -x
 set -e
 set -u
 set -o pipefail
 
-folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-
 git pull
+
+folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
   source "$folder"/.config
@@ -18,7 +24,7 @@ if [ ! -f "$folder"/toTweet.csv ]; then
   mlr --csv filter '$to_tweet==1' then cut -f id,tweet "$folder"/lista.csv >"$folder"/toTweet.csv
 fi
 
-# conta quante righe ci sono da tweetare
+# conta quante righe ci sono da tweettare
 completed=$(wc <"$folder"/toTweet.csv -l)
 
 # se sono minori o uguali a 1, esci
@@ -36,7 +42,7 @@ twurl -c "$apiKey" -s "$apiKeySecret" -a "$token" -S "$secret" "/1.1/statuses/up
 # leggi se il tweet è andato a buon fine
 ok=$(jq <"$folder"/log.json -r '.retweet_count')
 
-# se andato a buon fine rimuovi la riga twittata
+# se andato a buon fine, rimuovi la riga twittata
 if [ "$ok" -ge 0 ]; then
   # rimuovi prima riga
   mlr -I --csv filter -x 'NR==1' "$folder"/toTweet.csv
