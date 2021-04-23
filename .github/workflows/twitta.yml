@@ -16,9 +16,7 @@ jobs:
         fetch-depth: 0
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller, twurl
       run: |-
-        mkdir -p ~/bin
-        cp bin/mlr ~/bin
-        chmod +x mlr
+        sudo apt-get install miller
         sudo apt-get install python3-setuptools
         pip3 install wheel
         pip3 install lxml
