@@ -9,8 +9,8 @@
 ## da fare
 
 - [x] scrivere note StreamYard;
-- [ ] attivare evento su gruppo Facebook ODS (si può fare soltanto da giorno 10 aprile in poi);
-- [ ] scrivere documento condiviso per chi si occuperà della regia
+- [x] attivare evento su gruppo Facebook ODS (si può fare soltanto da giorno 10 aprile in poi);
+- [x] scrivere documento condiviso per chi si occuperà della regia
 
 ## Streamyard
 
