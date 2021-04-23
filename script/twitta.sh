@@ -7,6 +7,8 @@ set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
   source "$folder"/.config
 fi
