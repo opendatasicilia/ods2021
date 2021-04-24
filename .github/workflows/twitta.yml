@@ -1,10 +1,10 @@
 name: twitta tutto il programma ods2021
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
-    - cron:  '5 6 */4 * *'
+    - cron:  '5 6 * * MON,THU'
 
 jobs:
   scheduled:
